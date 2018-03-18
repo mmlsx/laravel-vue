@@ -16,7 +16,7 @@
 # 安装
 首先从 `github` 克隆项目到本地
 ```
-git clone https://github.com/Flyerboy/laravel-vue laravel-vue
+git clone https://github.com/mmlsx/laravel-vue laravel-vue
 ```
 
 安装 Laravel 开发依赖
